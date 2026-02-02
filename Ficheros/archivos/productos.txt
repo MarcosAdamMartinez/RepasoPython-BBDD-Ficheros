@@ -1,0 +1,6 @@
+Monitor,150.50,5
+Raton,15.25,20
+Teclado Mecanico,80.00,8
+Alfombrilla,10.00,50
+Auriculares,45.00,12
+Teclado,25.99,10

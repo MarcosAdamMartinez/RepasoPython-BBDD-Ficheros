@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ba7e6ba-46dc-462a-8606-4279c0e7b234" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/RepasoPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBDD/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBDD/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBDD/02_joins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBDD/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBDD/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficheros/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficheros/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficheros/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficheros/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficheros/archivos/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficheros/archivos/datos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficheros/archivos/productos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficheros/archivos/quijote.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficheros/leer_logs.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="397ZQeV3QQPl2ai4MsbmkxXnf3P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01.executor": "Run",
+    "Python.02.executor": "Run",
+    "Python.02_joins.executor": "Run",
+    "Python.03.executor": "Run",
+    "Python.04.executor": "Run",
+    "Python.leer_logs.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bananaboy\PycharmProjects\RepasoPython\Ficheros\archivos" />
+      <recent name="C:\Users\bananaboy\PycharmProjects\RepasoPython\Ficheros\archivos\residuales" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Query.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/.idea/queries/Query.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-PY-253.28294.336" />
+        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ba7e6ba-46dc-462a-8606-4279c0e7b234" name="Changes" comment="" />
+      <created>1770049054880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770049054880</updated>
+      <workItem from="1770049055940" duration="10289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RepasoPython$leer_logs.coverage" NAME="leer_logs Coverage Results" MODIFIED="1770055579046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ficheros" />
+    <SUITE FILE_PATH="coverage/RepasoPython$01.coverage" NAME="01 Coverage Results" MODIFIED="1770057732565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BBDD" />
+    <SUITE FILE_PATH="coverage/RepasoPython$03.coverage" NAME="03 Coverage Results" MODIFIED="1770053104788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ficheros" />
+    <SUITE FILE_PATH="coverage/RepasoPython$02_joins.coverage" NAME="02_joins Coverage Results" MODIFIED="1770059233011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BBDD" />
+    <SUITE FILE_PATH="coverage/RepasoPython$04.coverage" NAME="04 Coverage Results" MODIFIED="1770055576738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ficheros" />
+    <SUITE FILE_PATH="coverage/RepasoPython$02.coverage" NAME="02 Coverage Results" MODIFIED="1770058374014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BBDD" />
+  </component>
+</project>
